@@ -46,4 +46,4 @@ Enables data-backed recommendations for operational improvement.
 
 Screenshot/ Demo
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/rishidas133/Blinkit-Sales-Dashboard/blob/main/Snapshot%20of%20Blinkit%20dashboard.png)
